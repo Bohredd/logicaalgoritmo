@@ -33,7 +33,7 @@ int main()
         case '2':
             printf("Voce escolheu sair...");
             printf("-------=-------");
-            printf("A media de filhos dos habitantes sao de: %d\nO maior salario da cidade eh de: %f\nA media de salario da populacao eh de: %f\nO Percentual de pessoas com ate 100 reais de salario eh de:%f",numerodefilhos/contador,maiorsalario,mediasalarial/contador,(quantia100salario/contador)/100;
+            printf("A media de filhos dos habitantes sao de: %d\nO maior salario da cidade eh de: %f\nA media de salario da populacao eh de: %f\nO Percentual de pessoas com ate 100 reais de salario eh de:%f",numerodefilhos/contador,maiorsalario,mediasalarial/contador,(quantia100salario/contador)/100);
             break;
     }
     return 0;
